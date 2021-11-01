@@ -13,6 +13,8 @@
 		077A4BEF273063A500C48714 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 077A4BED273063A500C48714 /* Main.storyboard */; };
 		077A4BF1273063A800C48714 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 077A4BF0273063A800C48714 /* Assets.xcassets */; };
 		077A4BF4273063A800C48714 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 077A4BF2273063A800C48714 /* LaunchScreen.storyboard */; };
+		077A4BFD273063BF00C48714 /* 誰讓你流淚.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 077A4BFB273063BF00C48714 /* 誰讓你流淚.mp3 */; };
+		077A4BFE273063BF00C48714 /* 不屑.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 077A4BFC273063BF00C48714 /* 不屑.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		077A4BF0273063A800C48714 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		077A4BF3273063A800C48714 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		077A4BF5273063A800C48714 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		077A4BFB273063BF00C48714 /* 誰讓你流淚.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "誰讓你流淚.mp3"; sourceTree = "<group>"; };
+		077A4BFC273063BF00C48714 /* 不屑.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "不屑.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				077A4BF0273063A800C48714 /* Assets.xcassets */,
 				077A4BF2273063A800C48714 /* LaunchScreen.storyboard */,
 				077A4BF5273063A800C48714 /* Info.plist */,
+				077A4BFC273063BF00C48714 /* 不屑.mp3 */,
+				077A4BFB273063BF00C48714 /* 誰讓你流淚.mp3 */,
 			);
 			path = MusicAPPP;
 			sourceTree = "<group>";
@@ -125,7 +131,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				077A4BFE273063BF00C48714 /* 不屑.mp3 in Resources */,
 				077A4BF4273063A800C48714 /* LaunchScreen.storyboard in Resources */,
+				077A4BFD273063BF00C48714 /* 誰讓你流淚.mp3 in Resources */,
 				077A4BF1273063A800C48714 /* Assets.xcassets in Resources */,
 				077A4BEF273063A500C48714 /* Main.storyboard in Resources */,
 			);
